@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+
+[![Build Status](https://dev.azure.com/GitHUBAZ400/AZ400Practise/_apis/build/status/venkatamatta.calculator?branchName=master)](https://dev.azure.com/GitHUBAZ400/AZ400Practise/_build/latest?definitionId=1&branchName=master)
